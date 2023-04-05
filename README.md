@@ -69,6 +69,6 @@
 <div>
 
 
-### Talento é acertar um alvo que ningém acerta, Genialidade é acertar um alvo que ninguém vê! 💡
+<h1 align="center">Talento é acertar um alvo que ningém acerta, Genialidade é acertar um alvo que ninguém vê! 💡</h1>
 
 
