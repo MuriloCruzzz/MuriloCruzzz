@@ -1,6 +1,9 @@
 
 
 ### Olá Sou Murilo Cruz! ✌️
+<div align="center"> 
+  <br>
+</div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)
 
