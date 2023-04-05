@@ -1,6 +1,6 @@
 
 
-<h1 align="center">Olá Sou Murilo Cruz! ✌️a</h3>
+<h1 align="center">Olá Sou Murilo Cruz! ✌️</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
 <h3 align="center">Buscando minha Primeira Oportunidade em Tecnologia</h3>
 
