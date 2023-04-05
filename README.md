@@ -9,7 +9,6 @@
 
 
 
-### Tecnologias que uso no meu dia!
 <div align="center"> 
   <br>
   <nav>
