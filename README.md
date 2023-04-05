@@ -24,7 +24,6 @@ Entre em contato!!! Aberto a Novos Desafios 👉🏻[![Likedin](https://img.shie
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilocruz99@gmail.com/)
 
 
-### Talento é acertar um alvo que ningém acerta!
-### Genialidade é acertar um alvo que ninguém vê!
+### Talento é acertar um alvo que ningém acerta!### Genialidade é acertar um alvo que ninguém vê!
 
 
