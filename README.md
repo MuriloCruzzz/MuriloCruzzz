@@ -12,7 +12,7 @@
   </nav>
 </div>
 
-
+<a href=https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)
 
 <div align="center"> 
   <br>
