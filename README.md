@@ -17,13 +17,10 @@
   </nav>
 </div>
 
-
-
-<br><br><br>
 Entre em contato!!! Aberto a Novos Desafios 👉🏻[![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruzmurilo/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilocruz99@gmail.com/)
 
 
-### Talento é acertar um alvo que ningém acerta!### Genialidade é acertar um alvo que ninguém vê!
+### Talento é acertar um alvo que ningém acerta, Genialidade é acertar um alvo que ninguém vê! 💡
 
 
