@@ -39,9 +39,7 @@
     </a>
         </a>
     <a href="https://www.python.org" target="_blank">
-        <img
-            src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_wordmark_logo_icon_146382.png" alt="python" width="40" height="40"
-        />
+        <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_wordmark_logo_icon_146382.png" alt="python" width="40" height="40"/>
     </a>
     
   </p>
