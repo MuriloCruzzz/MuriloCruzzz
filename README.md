@@ -3,7 +3,7 @@
 <h3 align="center">Buscando minha Primeira Oportunidade como DEV</h3>
 <br>
 
-.                           . ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCruzzz&layout=compact)](https://github.com/MuriloCruzz/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCruzzz&layout=compact)](https://github.com/MuriloCruzz/github-readme-stats)
 
 
 <div align="center"> 
@@ -13,7 +13,7 @@
   </nav>
 </div>
 
-<h2 align="center">Entre em contato comigo:</h2>
+<h2 align="left">Entre em contato comigo:</h2>
 <p align="center">
   <a href="https://www.linkedin.com/in/cruzmurilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuriloCruzzz" height="30" width="40" /></a>
 <p align="center">
