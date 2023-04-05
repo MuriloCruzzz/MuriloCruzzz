@@ -3,6 +3,7 @@
 ### Olá Sou Murilo Cruz! ✌️
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCruzzz&layout=compact)](https://github.com/MuriloCruzz/github-readme-stats)
 [![Likedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cruzmurilo/)
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilocruz99@gmail.com/)
