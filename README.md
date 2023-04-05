@@ -19,9 +19,13 @@
 
 <h2 align="center">Entre em contato comigo:</h2>
 <p align="center">
-  <a href="[https://linkedin.com/in/isaaccruzz](https://www.linkedin.com/in/cruzmurilo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuriloCruzzz" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/cruzmurilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuriloCruzzz" height="30" width="40" /></a>
+<p align="center">
+  <p align="center">
+  <a href="mailto:murilocruz99@gmail.com/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="MuriloCruzzz" height="30" width="40" /></a>
+<p align="center">
 
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:murilocruz99@gmail.com/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
  <h2 align="center">Linguagens e Ferramentas:</h2>
 <div>
   <h3 align="center">Front-end</h3>
