@@ -22,7 +22,7 @@
   <a href="https://www.linkedin.com/in/cruzmurilo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="MuriloCruzzz" height="30" width="40" /></a>
 <p align="center">
   <p align="center">
-  <a href="mailto:murilocruz99@gmail.com/" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)" alt="MuriloCruzzz" height="30" width="40" /></a>
+  <a href="mailto:murilocruz99@gmail.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="MuriloCruzzz" height="30" width="40" /></a>
 <p align="center">
 
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
