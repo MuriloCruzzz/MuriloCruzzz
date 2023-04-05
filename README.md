@@ -1,18 +1,10 @@
-
-
 <h1 align="center">Olá Sou Murilo Cruz! ✌️</h1>
 <h3 align="center">Apaixonado por Tecnologia</h3>
 <h3 align="center">Buscando minha Primeira Oportunidade como DEV</h3>
 <br>
 
-<div align="center"> 
-  <br>
-  <a ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCruzzz&layout=compact)](https://github.com/MuriloCruzz/github-readme-stats)
-  </a>
-  </nav>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloCruzzz&layout=compact)](https://github.com/MuriloCruzz/github-readme-stats)
 
-<a href=https://github-readme-stats.vercel.app/api?username=MuriloCruzzz&show_icons=true&theme=tokyonight)
 
 <div align="center"> 
   <br>
