@@ -26,6 +26,7 @@ Entre em contato!!! Aberto a Novos Desafios 👉🏻[![Likedin](https://img.shie
 <div align="center"> 
   <br>
 </div>
-### Talento é acertar um alvo que ningém acerta!### Genialidade é acertar um alvo que ninguém vê!
+### Talento é acertar um alvo que ningém acerta!
+### Genialidade é acertar um alvo que ninguém vê!
 
 
